@@ -1,0 +1,6 @@
+1) Current window position: X=-7, Y=0, Width=466, Height=359
+2) Current window position: X=445, Y=0, Width=466, Height=359
+3) Current window position: X=897, Y=0, Width=466, Height=359
+4) Current window position: X=1349, Y=0, Width=466, Height=359
+5) Current window position: X=-7, Y=352, Width=466, Height=359
+6) Current window position: X=445, Y=352, Width=466, Height=359
